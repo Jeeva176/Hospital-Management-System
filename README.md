@@ -1,3 +1,11 @@
+
+Features:
+
+Appointment scheduling and tracking.
+
+Managing patient records and history.
+
+Doctor availability and specialization management.
 Hospital Management System
 
 Project Description:
@@ -16,15 +24,9 @@ Appointment Table: Stores appointment details (ID, patient ID, doctor ID, date/t
 
 Medical Records Table: Stores patient medical records (record ID, patient ID, diagnosis, treatment).
 
-Features:
+Tools using: 
 
-Appointment scheduling and tracking.
-
-Managing patient records and history.
-
-Doctor availability and specialization management.
-
-Generating reports and statistics on patient care. 
+* MYSQL
 
 Queries and Analysis
 
