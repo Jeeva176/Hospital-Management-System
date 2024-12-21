@@ -1,3 +1,5 @@
+Hospital Management System
+
 Project Description:
 
 The Hospital Management System (HMS) project is designed to manage hospital operations such as doctor schedules, patient appointments, medical records, and more. It uses a relational database to track patient information, doctor details, appointments, and medical histories.
